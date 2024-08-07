@@ -1,0 +1,77 @@
+---
+manufacturer: Huawei
+model: S5732-H24S6Q
+slug: huawei-s5732-h24s6q
+part_number: S5732-H24S6Q
+u_height: 1
+is_full_depth: false
+console-ports:
+  - name: console
+    type: rj-45
+power-ports:
+  - name: PSU1
+    type: iec-60320-c14
+    maximum_draw: 1000
+  - name: PSU2
+    type: iec-60320-c14
+    maximum_draw: 1000
+interfaces:
+  - name: MEth0/0/1
+    type: 1000base-t
+    mgmt_only: true
+  - name: GigabitEthernet0/0/1
+    type: 1gbase-t
+  - name: GigabitEthernet0/0/2
+    type: 1gbase-t
+  - name: GigabitEthernet0/0/3
+    type: 1gbase-t
+  - name: GigabitEthernet0/0/4
+    type: 1gbase-t
+  - name: GigabitEthernet0/0/5
+    type: 1gbase-t
+  - name: GigabitEthernet0/0/6
+    type: 1gbase-t
+  - name: GigabitEthernet0/0/7
+    type: 1gbase-t
+  - name: GigabitEthernet0/0/8
+    type: 1gbase-t
+  - name: GigabitEthernet0/0/9
+    type: 1gbase-t
+  - name: GigabitEthernet0/0/10
+    type: 1gbase-t
+  - name: GigabitEthernet0/0/11
+    type: 1gbase-t
+  - name: GigabitEthernet0/0/12
+    type: 1gbase-t
+  - name: GigabitEthernet0/0/13
+    type: 1gbase-t
+  - name: GigabitEthernet0/0/14
+    type: 1gbase-t
+  - name: GigabitEthernet0/0/15
+    type: 1gbase-t
+  - name: GigabitEthernet0/0/16
+    type: 1gbase-t
+  - name: GigabitEthernet0/0/17
+    type: 1gbase-t
+  - name: GigabitEthernet0/0/18
+    type: 1gbase-t
+  - name: GigabitEthernet0/0/19
+    type: 1gbase-t
+  - name: GigabitEthernet0/0/20
+    type: 1gbase-t
+  - name: XGigabitEthernet0/0/1
+    type: 10gbase-t
+  - name: XGigabitEthernet0/0/2
+    type: 10gbase-t
+  - name: XGigabitEthernet0/0/3
+    type: 10gbase-t
+  - name: XGigabitEthernet0/0/4
+    type: 10gbase-t
+  - name: 40GE0/0/1
+    type: 40gbase_lr4_qsfp+
+  - name: 40GE0/0/2
+    type: 40gbase_lr4_qsfp+
+  - name: 40GE0/0/3
+    type: 40gbase_lr4_qsfp+
+  - name: 40GE0/0/4
+    type: 40gbase_lr4_qsfp+
